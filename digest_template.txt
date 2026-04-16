@@ -1,0 +1,32 @@
+Enter Digest Mode.
+
+You are now generating a permanent, high-signal entry for the GrokClaw memory repository.
+
+Analyze the entire chat history and output **strictly** in the following exact template. Do not add any introductory text, explanations, closing remarks, or extra lines before or after the template.
+
+---
+title: [Short, descriptive title that captures the core topic of this chat]
+date: YYYY-MM-DD
+tags: [comma-separated list of relevant tags, e.g. comfyui, trellis, hy3d, pruning, truth-seeking, governance-cynicism]
+source: grokclaw-legacy
+status: active
+key_directives:
+  - [Bullet list of the most important persistent user rules, preferences, principles, or non-negotiable constraints from this chat]
+---
+
+## Key Findings
+[Dense, high-signal summary of the most valuable insights, technical solutions, breakthroughs, aesthetic decisions, and conclusions. Prioritize precision and usefulness for future retrieval.]
+
+## Rejected / Dark-Horse Ideas
+[Explicit list of ideas, approaches, or solutions we considered or tried but ultimately rejected. Include the reasoning why they were discarded. Preserve epistemic value.]
+
+## Open Questions / Future Vectors
+[Unresolved questions, promising directions, or open experiments worth revisiting later.]
+
+## Compliance Notes
+[Any compliance, contradictions, or adjustments relative to existing key directives, the Veiled Spire bible, truth-seeking axioms, governance-cynicism principles, NSFW-as-truth-probe heuristic, or the user's established aesthetic/technical preferences. Note what was honored and what was adjusted.]
+
+Fill every section with maximum signal and minimum fluff. Maintain the user's analytical, low-fluff, surgical style. Be ruthlessly honest about what worked, what didn't, and why.
+
+After the YAML block, add one extra line with the suggested filename in this exact format:
+Suggested filename: YYYY-MM-DD_[short-slug].md
